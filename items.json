@@ -1,0 +1,64 @@
+{
+  "Sheet1": [
+    {
+      "item_ID": 1,
+      "item_description": "jabuka",
+      "item_price": 10
+    },
+    {
+      "item_ID": 2,
+      "item_description": "marelica",
+      "item_price": 20
+    },
+    {
+      "item_ID": 3,
+      "item_description": "višnja",
+      "item_price": 40
+    },
+    {
+      "item_ID": 4,
+      "item_description": "dinja",
+      "item_price": 5
+    },
+    {
+      "item_ID": 5,
+      "item_description": "lubenica",
+      "item_price": 5
+    },
+    {
+      "item_ID": 6,
+      "item_description": "orah",
+      "item_price": 60
+    },
+    {
+      "item_ID": 7,
+      "item_description": "lješnjak",
+      "item_price": 60
+    },
+    {
+      "item_ID": 8,
+      "item_description": "tikvica",
+      "item_price": 8
+    },
+    {
+      "item_ID": 9,
+      "item_description": "mahune",
+      "item_price": 20
+    },
+    {
+      "item_ID": 10,
+      "item_description": "blitva",
+      "item_price": 18
+    },
+    {
+      "item_ID": 11,
+      "item_description": "paprika",
+      "item_price": 25
+    },
+    {
+      "item_ID": 12,
+      "item_description": "krumpir",
+      "item_price": 8
+    }
+  ]
+}
