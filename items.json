@@ -1,5 +1,4 @@
-{
-  "Sheet1": [
+[
     {
       "item_ID": 1,
       "item_description": "jabuka",
@@ -61,4 +60,3 @@
       "item_price": 8
     }
   ]
-}
